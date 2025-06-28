@@ -6,11 +6,11 @@ Pantalla OLED, sin necesidad de retroiluminación, autoiluminación, el rendimie
 Controlador IC 	SSD1306  
 Tamaño 	0.91 pulgadas OLED  
 Resolución 	128 x 32  
-Interfaz 	IIC  
+Interfaz 	I2C  
 Color de pantalla 	Azul  
 GND 	Power Ground  
 VCC 	Power + (DC 3.3 ~ 5v)  
-SCL 	línea de reloj  
+SCL (SCK)__________	línea de reloj  
 SDA 	Línea de datos  
 
 
