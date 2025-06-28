@@ -4,3 +4,4 @@ Pantalla OLED, sin necesidad de retroiluminación, autoiluminación, el rendimie
 
 ![](images/Oled 0.91 Pulgadas Azul 128×32.png)
 
+
